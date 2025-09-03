@@ -117,7 +117,7 @@ irys upload FILE_NAME \
 
 * change `FILE_NAME` to actual file
 * change `PRIVATE_KEY` to real key (without 0x) - use burner wallet
-* change `FILE_NAME` and `FILE_FORMAT` (JPG,MP4,MKV)
+* change `FILE_NAME` and `FILE_FORMAT` (PNG,JPG,MP4,MKV)
 * change `RPC_URL` to your RPC
 
 ---
